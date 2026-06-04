@@ -1,10 +1,10 @@
-# 🌱 Plantação App
+#  Plantação App
 
 Aplicativo desenvolvido em **React Native + Expo** para **controle e gestão de plantações**, permitindo registrar cultivos, acompanhar o crescimento, visualizar estatísticas com gráficos e salvar tudo automaticamente via AsyncStorage.
 
 ---
 
-## 🚜 Funcionalidades
+##  Funcionalidades
 - **Cadastro de plantações** (nome, data, quantidade, estágio, observações)
 - **Lista completa de registros** com filtro
 - **Gráficos estatísticos** usando `react-native-svg-charts`
@@ -14,7 +14,7 @@ Aplicativo desenvolvido em **React Native + Expo** para **controle e gestão de 
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 ```
 plantacao-app/
 │── app/
@@ -31,7 +31,7 @@ plantacao-app/
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 ```bash
 # Instalar dependências
 npm install
@@ -43,7 +43,7 @@ Abra no navegador, celular ou emulador Android/iOS.
 
 ---
 
-## 📦 Dependências Principais
+## Dependências Principais
 ```bash
 npx expo install @react-native-async-storage/async-storage
 npx expo install react-native-svg react-native-svg-charts
@@ -52,7 +52,7 @@ npx expo install expo-router
 
 ---
 
-## 📈 Gráficos
+## Gráficos
 O projeto utiliza:
 - `react-native-svg`
 - `react-native-svg-charts`
@@ -61,11 +61,11 @@ Inclui contagem de cultivos e distribuição por categorias.
 
 ---
 
-## 🤝 Contribuição
+## Contribuição
 Pull requests são bem-vindos.
 
 ---
 
-## 📄 Licença
+## Licença
 MIT License.
 
